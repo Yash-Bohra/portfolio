@@ -42,15 +42,15 @@ const Navbar = () => {
   return (
     <>
       <div className="header">
-        <a href="/#" className="navbar-title" data-cursor="disable">
-          Logo
+        <a href="/#" className="navbar-title" data-cursor="disable" style={{ display: 'flex', alignItems: 'center' }}>
+          <img src="/images/logo.png" alt="Logo" style={{ height: '40px', objectFit: 'contain' }} />
         </a>
         <a
-          href="mailto:example@mail.com"
+          href="/"
           className="navbar-connect"
           data-cursor="disable"
         >
-          example@mail.com
+          Portfolio
         </a>
         <ul>
           <li>

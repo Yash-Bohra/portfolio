@@ -6,9 +6,8 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis
-          dolores numquam iusto Ratione earum ducimus autem id iure pariatur
-          dolorum quae maiores.
+          I'm a passionate Full-Stack Web Developer with a strong foundation in Data Structures and Algorithms, having solved over 300+ problems across platforms like LeetCode and GeeksforGeeks. 
+          With a background in Cyber Security and Advance Computing from Poornima College and CDAC Pune, I love building scalable production-like systems using microservices and real-time communication technologies.
         </p>
       </div>
     </div>
